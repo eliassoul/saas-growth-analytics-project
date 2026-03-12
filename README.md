@@ -1,5 +1,7 @@
 # SaaS Growth Analytics
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://saas-growth-analytics.streamlit.app/)
+
 A complete data analytics project that simulates, processes, and analyzes SaaS business metrics through an automated data pipeline and interactive dashboards.
 
 The project replicates a real-world SaaS analytics environment by generating synthetic operational data, computing core SaaS KPIs, and presenting strategic insights through a Streamlit analytics platform.
@@ -433,7 +435,7 @@ The easiest way to explore the project is through the live Streamlit application
 Access the dashboard here:
 
 👉 **Live Demo:**  
-https://saas-growth-analytics-project.streamlit.app
+https://saas-growth-analytics.streamlit.app
 
 The application provides interactive access to all analytical modules, including:
 
